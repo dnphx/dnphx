@@ -19,7 +19,7 @@ The goal is to design a scalable architecture where **frontend, backend, databas
 
 ### Tech & Interests
 
-`Python` · `JavaScript` · `Next.js` · `APIs` · `Backend Development` · `System Architecture` · `Software Engineering` · `Cloud` · `IT Infrastructure` · `IT Security`
+`Python` · `JavaScript` · `Next.js` · `APIs` · `Backend Development` · `System Architecture` · `Software Engineering` · `Cloud` · `IT Infrastructure` · `IT Security` · `AI`
 
 ### Practical Experience
 
